@@ -1,0 +1,26 @@
+*{
+  box-sizing: border-box;
+}
+.App {
+  text-align: center;
+}
+.container{
+  background-color: #fff;
+  position: relative;
+  max-width: 500px;
+  margin: auto;
+  padding: 10px;
+  box-shadow: 2px 2px 8px #000;
+}
+.footer{
+  text-align: end;
+}
+.footer button{
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+  background-color: red;
+  font-size: 18px;
+  border: none;
+  cursor: pointer;
+}
